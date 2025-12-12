@@ -1,0 +1,7 @@
+{
+  "name": "GreenthumbAI",
+  "description": "Your personal AI botanist. Identify plants, diagnose diseases, and get expert care tips using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
